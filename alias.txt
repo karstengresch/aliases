@@ -118,7 +118,7 @@
 
 
 
-# Clonning with remote branches
+# Cloning with remote branches
 #
 # Command to list remote branches:
 #
